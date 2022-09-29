@@ -1,0 +1,15 @@
+C:\GB\2 Знакомство с языками программирования\ZSLP_DZ4\task025\obj\Debug\net6.0\task025.csproj.AssemblyReference.cache
+C:\GB\2 Знакомство с языками программирования\ZSLP_DZ4\task025\obj\Debug\net6.0\task025.GeneratedMSBuildEditorConfig.editorconfig
+C:\GB\2 Знакомство с языками программирования\ZSLP_DZ4\task025\obj\Debug\net6.0\task025.AssemblyInfoInputs.cache
+C:\GB\2 Знакомство с языками программирования\ZSLP_DZ4\task025\obj\Debug\net6.0\task025.AssemblyInfo.cs
+C:\GB\2 Знакомство с языками программирования\ZSLP_DZ4\task025\obj\Debug\net6.0\task025.csproj.CoreCompileInputs.cache
+C:\GB\2 Знакомство с языками программирования\ZSLP_DZ4\task025\bin\Debug\net6.0\task025.exe
+C:\GB\2 Знакомство с языками программирования\ZSLP_DZ4\task025\bin\Debug\net6.0\task025.deps.json
+C:\GB\2 Знакомство с языками программирования\ZSLP_DZ4\task025\bin\Debug\net6.0\task025.runtimeconfig.json
+C:\GB\2 Знакомство с языками программирования\ZSLP_DZ4\task025\bin\Debug\net6.0\task025.dll
+C:\GB\2 Знакомство с языками программирования\ZSLP_DZ4\task025\bin\Debug\net6.0\task025.pdb
+C:\GB\2 Знакомство с языками программирования\ZSLP_DZ4\task025\obj\Debug\net6.0\task025.dll
+C:\GB\2 Знакомство с языками программирования\ZSLP_DZ4\task025\obj\Debug\net6.0\refint\task025.dll
+C:\GB\2 Знакомство с языками программирования\ZSLP_DZ4\task025\obj\Debug\net6.0\task025.pdb
+C:\GB\2 Знакомство с языками программирования\ZSLP_DZ4\task025\obj\Debug\net6.0\task025.genruntimeconfig.cache
+C:\GB\2 Знакомство с языками программирования\ZSLP_DZ4\task025\obj\Debug\net6.0\ref\task025.dll
