@@ -13,8 +13,11 @@ int EnterNum ()
     return (number);
 }
 
-double PowNum(int number1 , int number2)
-{
-    double number3 = Math.Pow(number1, number2);
-    return (number3);
+int PowNum(int number1 , int number2)
+{    
+    for(int i = number1;number2>1;number2--)
+    {
+        number1 =number1*i;
+    }
+    return (number1);
 }

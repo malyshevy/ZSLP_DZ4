@@ -2,16 +2,15 @@
 Console.Clear();
 int num = 8;
 int [] arr = arrElement(num);
-Console.WriteLine($"[{String.Join(",", arr)}]");
+Console.WriteLine($"Весь массив : [{String.Join(",", arr)}]");
 
 int [] arrElement(int size)
 {
     int [] array = new int [size];
     for (int i=0;size>i;i++)
     {
-        array [i]=new Random().Next(-100,101);
+        Console.Write($"Введите {i+1} элемент из 8-ми элементов массива : ");
+        array [i]=int.Parse(Console.ReadLine());
     }
     return array;
 }
-
-
